@@ -5,6 +5,8 @@
 
 # 💫 About Me:
 🔭 I’m currently working on<br><br>enhancing my AI/ML skills and building small projects around GenAI & automation.<br><br>🤝 I’m looking to collaborate on<br><br>AI/ML projects, GenAI tools, and full-stack applications involving LLMs, RAG, and intelligent automation.<br><br>🤝 I’m looking for help with<br><br>Improving my GenAI engineering skills, exploring MLOps, and scaling AI apps to production.<br><br>🌱 I’m currently learning<br><br>Machine Learning, Deep Learning, GenAI, LLM Agents, RAG pipelines, and FastAPI-based backend development.<br><br>💬 Ask me about<br><br>AI projects, dashboards, ML models, building MVPs, designing smart assistants, and how I approach problem-solving.<br><br>⚡ Fun fact<br><br>I turn random ideas into AI tools for fun — most of my projects start as “what if…” experiments 😄
+
+
 👨‍💻 All of my projects are available at [https://soham-commits.netlify.app](https://soham-commits.netlify.app)
 
 
